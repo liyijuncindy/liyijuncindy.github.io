@@ -9,7 +9,7 @@ My research interests include efficient retrieval-augmented generation, reinforc
 ## Selected Research
 
 - **Knowledge Graph RAG Evaluation and Optimization** — Undergraduate thesis, advised by Xuefeng Bai. Developed Knowledge Utilization Gap (KUG) and training-free evidence organization. On 500 CWQ questions with Qwen3.5-Flash, improved AnswerHit from 39.6% to 60.2% over direct graph-context answering.
-- **State-Local Policy Optimization for Search Agents (SLPO)** — Second author, research manuscript. Contributed to methodology discussions and manuscript writing for action-level credit assignment in search agents.
+- **State-Local Policy Optimization for Search Agents (SLPO)** — Second author, under review. Contributed to methodology discussions and manuscript writing for action-level credit assignment in search agents.
 
 ## Publication
 
