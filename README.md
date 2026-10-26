@@ -4,7 +4,7 @@ Master of Computing in Artificial Intelligence, **National University of Singapo
 
 My research interests include efficient retrieval-augmented generation, reinforcement learning for search agents, and RSI, with a particular focus on evidence utilization, answer quality evaluation, and agent memory.
 
-[Website](https://liyijuncindy.github.io/) · [Email](mailto:liyijun@u.nus.edu)
+[Website](https://liyijuncindy.github.io/) · [Email](mailto:liyijun@u.nus.edu) · [LinkedIn](https://www.linkedin.com/in/yijun-li-166a49435/)
 
 ## Selected Research
 
