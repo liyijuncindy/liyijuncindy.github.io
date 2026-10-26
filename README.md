@@ -29,7 +29,7 @@ Bugudu Technology (Shenzhen) Co., Ltd. — Student entrepreneurship, Developer &
 ## Pages
 
 - [Research](https://liyijuncindy.github.io/)
-- [Internships & Projects](https://liyijuncindy.github.io/internships.html)
+- [Experience](https://liyijuncindy.github.io/internships.html)
 - [Life](https://liyijuncindy.github.io/interests.html)
 
 All three pages share `styles.css` and require no build step.
